@@ -1,0 +1,7 @@
+pyspark
+transformers
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
