@@ -99,9 +99,6 @@ Performance Evaluation & Backtesting
 - FinBERT captured sentiment trends accurately from financial text
 - Best model achieved an **F1-score of 0.82** in classifying signals
 - Backtesting indicated potential alpha generation over passive holding
-
-![Performance Metrics](reports/performance_metrics.png)
-
 ---
 
 ## ⚙️ How to Run
