@@ -116,6 +116,6 @@ cd Financial-Portfolio-Prediction
 pip install -r requirements.txt
 
 # Run notebook
-jupyter notebook notebooks/01_preprocessing.ipynb
+jupyter notebook notebooks/trading_signal.ipynb
 
 
